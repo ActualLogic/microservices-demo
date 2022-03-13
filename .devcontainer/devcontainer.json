@@ -31,7 +31,6 @@
 	// Minikube does not like running as root, so use a non-root user.
 	"remoteUser": "vscode",
 	"features": {
-		"kubectl-helm-minikube": "latest",
 		"docker-in-docker": "latest"
 	}
 }
